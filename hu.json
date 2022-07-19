@@ -1,10 +1,10 @@
 {
   "type": "service_account",
   "project_id": "hurawatch-movies",
-  "private_key_id": "2d5cc2add23cfcf9476eca22a7aea09b49398eb5",
-  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDFS2HkX1tu6b0n\nhVB1ii/wwE+24UfCkEPM5HopUU96JTkYre5Wyr61Dmv3BTBW3b8ap7aoXr8hYnj2\nr+74/NcIeb1+2gdoiECFm6bY6ozdpPxJVHj1PJ8pEf42M59HpGTmiZE1MS+FFz+Q\n6B2YH4GwPSgSzqZK0XiGgIsubB3TXBUxkbdt7lAeBpcyEKsHxzTJYxuBQiaE9XE9\nWSgU/h79PUfuD1SOjJgtGQ3xLboAS4JjiS55w/LuCit3lKK7YgST2cyFxzwCP8n3\nk7pCT6YZ/havUc9rkYBYDe8tQ76JFYfvuXDfGknYzU7jTilz6mMt17uy/Wdol4+T\nzW2p0BMZAgMBAAECggEAOzwVQYhBvuytjnqPvCKHnzxWEp3Tuj4vJQqqBNK1ToJz\ngI3kA6nulRSl5K3ppAMCuAGHrUh5ERBsKgCLerUK6LAIbVgPplpWKOchMnpFXdyF\npIyYnmSbkqykyug3174rTy4Za0N/tXFT8/FExWIcQWozKGZj9g2rJpLcds0eLVEu\nJvESz2Q04yXM77SKtyHkPRYj/FFlvFvsLXCG+EVmQVUeQNxU58Y3gn1J2Scmbrbd\n+FVb2jmpwCYZ0DvQLSqks0ErkJ1srsPoiPJejny5PAyLawKxE4CIqn29pcCLdeMS\nZYLMD8kGlZ611azfUMqS7Gv+0pvH3WRzWYcjRIsugwKBgQD4jvUJ3wBTifT6fX4t\nCDNhvzqqGXRgUaFSLh+XRr8WRTtR6zQf8LYCB3/hxyQWZrMX1IF1VwuGBTPYyWIO\nHGs1KeBy6r556nnQ5RFXzhgqwmUksvTyRKsADgAngDrwgccN8WmYay65/MiiNkt3\nOoVUX7Jmr15YdN3io/ETpWzLCwKBgQDLM4T4O3Kp3CGWfigFsexXtRw7U/82lNVT\n247HWsRpCDZSBXNkSRLXN0aQl7PkgscVEivReHctqWTJrsFguqPA1ktOHsPdL0Td\nzDwR0S3gkP7yk7mOP2J2Y1PsioWNfA/VhVNELZ+kJbf1goCyKdyZ/AqNrFvixdir\ndeaol2MQ6wKBgQC/hlB0abwzotL9DSPjiTUmdZa7qV+ONHhM/bNj+qSVgYVDCyyg\nC/gDOkok7DD3fe00SI/0nb0IaQvZWNvQqb9GON11T0K0aKOy/j9N3EWs9RvAmpC5\n+YWWRjOCPIGt/yIlsUa/pp9butfSfmnKFnLUX+T00N6u5GZxFAhYLhjVnwKBgQCK\nXZCDv2c6xsyQP2NdTWRT7N1GgNHeBsakjXLRyLrJkm/6tf93IFMV/Wutdb9nMK4D\naRYxUshEbX5V3wuKpExxOPqaPVS9vjw0k6ersjZ9Hf6ci37kn8CaQNSa01BRoVLe\n4CRs3mxAR/bV1IFx0BOJPxiok98Vsgbx6hygXEV29QKBgQCzGzzRc6idCSa6DbPH\n72F2Q8QpCOO1t329Av81Syc0ao+2O57m1GmqEk/3jijItwKbWIVw7jCvXQpReNhD\n3fiPYXp0/TqspvsKwS2/6k8W/bLXWdq6II1xFHUFZnEhJawBiE84egRC6yVRAXAa\nV6RMzISVWoiJHqa8Uddw8a4Mvw==\n-----END PRIVATE KEY-----\n",
+  "private_key_id": "input your private key",
+  "private_key": "         =\n-----END PRIVATE KEY-----\n",
   "client_email": "hurawatch@hurawatch-movies.iam.gserviceaccount.com",
-  "client_id": "114394258233972277047",
+  "client_id": "id  ",
   "auth_uri": "https://accounts.google.com/o/oauth2/auth",
   "token_uri": "https://oauth2.googleapis.com/token",
   "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
